@@ -8,6 +8,7 @@ This project examines the synoptic-scale environment associated with the May 24,
 
 - Analyze upper-level flow and the jet stream at 250 hPa.
 - Examine geopotential heights and vorticity at 500 hPa.
+- Examine dew points and specific humidity 850 hPa.
 - Analyze surface temperatures, dew points, and atmospheric conditions.
 - Evaluate severe-weather ingredients, including CAPE and 0–6 km bulk wind shear.
 
